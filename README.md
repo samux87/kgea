@@ -1,5 +1,5 @@
-# KGEA
-Knowledge Graph Embeddings enrichment with Aneuploidy scores
+# Knowledge Graph Embeddings enrichment with Aneuploidy scores (KGEA)
+This repository is the code repository of the "Machine learning estimated probability of relapse in early-stage non-small-cell lung cancer patients with aneuploidy imputation scores and knowledge graph embeddings" paper.
 
 ## Abstract
 ### Motivation: 
